@@ -26,7 +26,7 @@ Covers all **27 chapters** of the PlantUML Language Reference Guide v1.2025.0 (6
 ---
 
 ## Installation
-[![Install on Claude Code](https://img.shields.io/badge/Install%20on Claude%20Code-black?style=for-the-badge)](https://kaerez.github.io/skills-plugins/plugins/puml-plantuml/redir.html)
+[![Install on Claude Code](https://img.shields.io/badge/Install%20on%20Claude%20Code-black?style=for-the-badge)](https://kaerez.github.io/skills-plugins/plugins/puml-plantuml/redir.html)
 
 ### Via Plugin Marketplace
 
