@@ -27,6 +27,11 @@ Covers all **27 chapters** of the PlantUML Language Reference Guide v1.2025.0 (6
 
 Choose the path that matches how you use your AI assistant.
 
+### SKILLS.SH - NPX SKILLS
+```bash
+npx skills add kaerez/skills-plugins
+```
+
 ### 🖥️ Desktop Applications
 *Claude Desktop · CoWork · ChatGPT Desktop · Gemini Desktop*
 
