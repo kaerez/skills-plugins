@@ -29,7 +29,7 @@ Choose the path that matches how you use your AI assistant.
 
 ### SKILLS.SH - NPX SKILLS
 ```bash
-npx skills add kaerez/skills-plugins
+npx skills add https://github.com/kaerez/skills-plugins --skill puml-plantuml
 ```
 
 ### 🖥️ Desktop Applications
