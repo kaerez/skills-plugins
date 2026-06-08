@@ -8,6 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-Claude%20Code-blueviolet)](https://claude.ai/code)
 [![Platform](https://img.shields.io/badge/platform-Claude%20Desktop-blueviolet)](https://claude.ai/downloads)
 [![Platform](https://img.shields.io/badge/platform-Claude%20Web-blueviolet)](https://claude.ai)
+[![skills.sh](https://skills.sh/b/owner/repo)](https://skills.sh/owner/repo)
 
 ---
 
