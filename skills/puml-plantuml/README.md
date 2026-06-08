@@ -6,8 +6,7 @@
 [![License](https://img.shields.io/badge/license-AGPL--3.0-green)](LICENSE)
 [![PlantUML](https://img.shields.io/badge/PlantUML-v1.2025.0-orange)](https://plantuml.com)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)](references/local-rendering.md)
-[![skills.sh](https://skills.sh/b/owner/repo)](https://skills.sh/owner/repo)
-
+[![skills.sh](https://skills.sh/b/kaerez/skills-plugins)](https://skills.sh/kaerez/skills-plugins)
 ---
 
 ## What This Skill Can Do
