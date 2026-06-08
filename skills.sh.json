@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "PUML - PlantUML",
+      "description": "Full-stack PlantUML expert: create PUML from descriptions, convert images to PUML (vision reverse engineering), render locally (PNG/SVG/PDF) with no internet. macOS/Windows/Linux; auto-installs PlantUML+Java+Python. Covers all 27 chapters of the PlantUML Language Reference Guide v1.2025.0 (607 pages): Sequence, Use Case, Class, Object, Activity (legacy+new), Component, Deployment, State, Timing, JSON, YAML, nwdiag, Salt/Wireframe, Archimate, Gantt, MindMap, WBS, Maths, ER, Common Commands, Creole, Sprites, Skinparam, Preprocessing, Unicode, StdLib (C4/AWS/Azure/K8s/ArchiMate). Use for: draw a diagram, create PUML, convert image to PUML, render .puml, debug PUML, explain PlantUML syntax, any UML task.",
+      "skills": [
+        "puml-plantuml"
+      ]
+    }
+  ]
+}
