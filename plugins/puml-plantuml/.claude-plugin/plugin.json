@@ -1,0 +1,21 @@
+{
+  "name": "puml-plantuml",
+  "version": "2.0.0",
+  "description": "Full-stack PlantUML expert: create PUML from descriptions, convert images to PUML (vision reverse engineering), and render locally (PNG/SVG/PDF) offline. Auto-installs PlantUML + Java. Covers all 27 chapters of the PlantUML Language Reference Guide.",
+  "author": {
+    "name": "Erez Kalman / KSEC",
+    "email": "kaerez@gmail.com"
+  },
+  "homepage": "https://github.com/kaerez/skills-plugins/tree/main/plugins/puml-plantuml",
+  "repository": "https://github.com/kaerez/skills-plugins",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "plantuml",
+    "puml",
+    "uml",
+    "diagrams",
+    "diagram-rendering",
+    "image-to-puml",
+    "developer-tools"
+  ]
+}
