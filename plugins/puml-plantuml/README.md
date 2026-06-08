@@ -29,8 +29,7 @@ Covers all **27 chapters** of the PlantUML Language Reference Guide v1.2025.0 (6
 
 ### ⚡ Quick Install
 
-[![Install via Claude Desktop](https://img.shields.io/badge/Install%20via-Claude%20Desktop-blueviolet?style=for-the-badge)](https://kaerez.github.io/skills-plugins/redir.html?to=1)
-[![Install via Claude Code](https://img.shields.io/badge/Install%20via-Claude%20Code%20CLI-black?style=for-the-badge)](https://kaerez.github.io/skills-plugins/redir.html?to=2)
+[![Install via Claude Code](https://img.shields.io/badge/Install%20via-Claude%20Code%20CLI-black?style=for-the-badge)](https://kaerez.github.io/skills-plugins/redir.html?to=1)
 
 ### Via Plugin Marketplace
 
